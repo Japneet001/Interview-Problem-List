@@ -1,6 +1,6 @@
 <h2>
     <a href="https://www.codingninjas.com/studio/problems/intersection-of-2-arrays_1082149?">
-        Intersection Of Tow Sorted Arrays
+        Intersection Of Two Sorted Arrays
     </a>
 </h2>
 
@@ -15,10 +15,10 @@ Intersection of two arrays is an array that consists of all the common elements 
 
 <p><strong>Note: </strong>
     <ul>
-        <li>1. The length of each array is greater than zero.</li>
-        <li>2. Both the arrays are sorted in non-decreasing order.</li>
-        <li>3. The output should be in the order of elements that occur in the original arrays.</li>
-        <li>4. If there is no intersection present then return an empty array.</li>
+        <li>The length of each array is greater than zero.</li>
+        <li>Both the arrays are sorted in non-decreasing order.</li>
+        <li>The output should be in the order of elements that occur in the original arrays.</li>
+        <li>If there is no intersection present then return an empty array.</li>
     </ul>
 </p>
 
