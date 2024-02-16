@@ -51,7 +51,7 @@ Print the output of each test case in a separate line.
 4 2 1 3 1
 7
 6 3 1 5 4 3 2
-<strong>Sample Output 2:</strong>
+<strong>Sample Output 1:</strong>
 1
 3
 <strong>Explanation</strong>

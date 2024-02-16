@@ -45,7 +45,7 @@ Output for every test case will be printed in a separate line.
 1
 7
 2 3 1 6 3 6 2
-<strong>Sample Output 2:</strong>
+<strong>Sample Output 1:</strong>
 1
 <strong>Explanation</strong>
 The array is [2, 3, 1, 6, 3, 6, 2]. Here, the numbers 2, 3, and 6 are present twice, and the number 1 is present only once. So, the unique number in this array is 1.
